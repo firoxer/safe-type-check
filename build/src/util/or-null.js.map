@@ -1,0 +1,1 @@
+{"version":3,"file":"or-null.js","sourceRoot":"","sources":["../../../src/util/or-null.ts"],"names":[],"mappings":";;;AACA,kCAAqC;AAgBrC,SAAgB,MAAM,CAA4B,OAAY;IAC5D,OAAO,CAAC,CAAU,EAAE,IAAO,EAAE,eAAkD,EAAiC,EAAE;QAChH,OAAO,OAAO,CAAC,CAAC,EAAE,IAAI,EAAE,eAAe,CAAC,IAAI,iBAAU,CAAC,CAAC,EAAE,IAAI,CAAC,CAAC;IAClE,CAAC,CAAC;AACJ,CAAC;AAJD,wBAIC"}

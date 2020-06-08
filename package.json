@@ -1,0 +1,21 @@
+{
+  "name": "@firoxer/safe-type-check",
+  "version": "0.0.1",
+  "description": "",
+  "main": "build/src/index.js",
+  "types": "build/src/index.d.ts",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "ts-node test/index.ts"
+  },
+  "author": "Oliver Vartiainen <oliver@iki.fi>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^14.0.11",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.5"
+  }
+}

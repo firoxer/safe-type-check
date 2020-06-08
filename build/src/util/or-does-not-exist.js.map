@@ -1,0 +1,1 @@
+{"version":3,"file":"or-does-not-exist.js","sourceRoot":"","sources":["../../../src/util/or-does-not-exist.ts"],"names":[],"mappings":";;;AACA,sCAAmC;AAgBnC,SAAgB,cAAc,CAA4B,OAAY;IACpE,OAAO,CAAC,CAAU,EAAE,IAAO,EAAE,eAAkD,EAAsC,EAAE;QACrH,OAAO,CAAC,eAAM,CAAC,CAAC,EAAE,IAAI,CAAC,IAAI,OAAO,CAAC,CAAC,EAAE,IAAI,EAAE,eAAe,CAAC,CAAC;IAC/D,CAAC,CAAC;AACJ,CAAC;AAJD,wCAIC"}
